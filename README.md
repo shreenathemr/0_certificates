@@ -1,2 +1,2 @@
 # 0_certificates
-this is my folder that indicates my learning certificates
+this is my c learning certificates 
