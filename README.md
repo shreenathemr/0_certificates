@@ -1,2 +1,2 @@
 # 0_certificates
-this is my c learning certificates 
+this is my certificates 
